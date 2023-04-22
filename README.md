@@ -34,7 +34,7 @@ DataAlgorithm.ipynb     main analysis notebook
 
 ## Installation
 ```bash
-git clone https://github.com/AstralSkies/FoundationsofAI.git
-cd FoundationsofAI
+git clone https://github.com/sjbmcg/uk-covid19-analysis.git
+cd uk-covid19-analysis
 pip install pandas numpy scikit-learn matplotlib seaborn prophet mlxtend jupyter
 ```
